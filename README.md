@@ -2,6 +2,7 @@
 
 <!--
 **johnpapa/johnpapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -15,6 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://twitter.com/john_papa
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... All things Disney
--->
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/john_papa.svg?style=social&label=Follow%john_papa)](https://twitter.com/john_papa)
