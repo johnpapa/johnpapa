@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... All things Disney
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/john_papa.svg?style=social&label=Follow%john_papa)](https://twitter.com/john_papa)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/john_papa.svg?style=social&label=Follow john_papa)](https://twitter.com/john_papa)
