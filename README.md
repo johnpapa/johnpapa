@@ -2,9 +2,9 @@
 
 <!--
 **johnpapa/johnpapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Azure Static Web Apps, projects for 30+ Web frameworks, [VS Code](https://code.visualstudio.com/?wt.mc_id=johnpapa-github-jopapa) extensions, and [Azure](https://docs.microsoft.com/azure?WT.mc_id=johnpapa-github-jopapa)
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=johnpapa-github-jopapa)
