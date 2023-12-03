@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📝 I write stuff at [johnpapa.net](https://johnpapa.net) and [dev.to/john_papa](https://dev.to/john_papa)
 - 📚 Learn [Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=johnpapa-github-jopapa)
 - 🎙 Host the [Web Rush](https://webrush.io/) podcast
-- 🌱 I’m currently learning ... SvelteKit, Nuxt, Next
+- 🌱 I’m currently learning ... AI and Copilots!
 - 👯 I’m looking to collaborate on ... https://github.com/johnpapa/hello-worlds
 - 🤔 I’m looking for help with ... https://github.com/johnpapa/vscode-peacock
 - 💬 Ask me about ... https://github.com/azure/static-web-apps
